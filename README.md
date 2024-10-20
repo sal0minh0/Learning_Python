@@ -12,6 +12,6 @@
 
   <img src=
   "https://www.codedex.io/images/editor/python-logo.png"
-    alt="Python"/>
+    alt="Python" height="120"/>
 
 </h3>
