@@ -6,7 +6,7 @@
 </h1>
 </p><h3>
   
-  >>> Here's my profile: https://exercism.org/profiles/intro (Haven't Unlocked yet, change when unlock)
+  >>> Here's my profile: https://exercism.org/profiles/intro (Haven't Unlocked yet, change when unlock) 😁
 
 <br>
 
