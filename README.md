@@ -10,8 +10,8 @@
 
 <br>
 
-  <a href=
+  <img src=
   "https://www.codedex.io/images/editor/python-logo.png"
-    >Python</a>
+    alt="Python"/>
 
 </h3>
