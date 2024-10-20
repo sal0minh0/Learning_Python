@@ -11,7 +11,7 @@
 <br>
 
   <a href=
-    "https://w7.pngwing.com/pngs/17/991/png-transparent-computer-icons-python-github-miscellaneous-angle-text.png"
+  "https://www.codedex.io/images/editor/python-logo.png"
     >Python</a>
 
 </h3>
